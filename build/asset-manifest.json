@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/P7kasa/static/css/main.c086d3e5.css",
+    "main.js": "/P7kasa/static/js/main.1f813eee.js",
+    "static/media/kalen-emsley-Bkci_8qcdvQ-unsplash2.png": "/P7kasa/static/media/kalen-emsley-Bkci_8qcdvQ-unsplash2.fce6fc3e9ed27433e9b0.png",
+    "static/media/background.png": "/P7kasa/static/media/background.efc1935eb81fc5e585f9.png",
+    "static/media/Montserrat-Regular.ttf": "/P7kasa/static/media/Montserrat-Regular.ceb11275ab638627a643.ttf",
+    "index.html": "/P7kasa/index.html",
+    "main.c086d3e5.css.map": "/P7kasa/static/css/main.c086d3e5.css.map",
+    "main.1f813eee.js.map": "/P7kasa/static/js/main.1f813eee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c086d3e5.css",
+    "static/js/main.1f813eee.js"
+  ]
+}
